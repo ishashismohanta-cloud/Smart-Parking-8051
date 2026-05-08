@@ -68,6 +68,6 @@ The project demonstrates the fundamentals of embedded systems, sensor interfacin
 
 ## Author
 
-Ishashis Mohanta
+Ishashis Mohanta,
 Electrical Engineering  
 Embedded Systems Enthusiast
